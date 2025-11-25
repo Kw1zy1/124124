@@ -8,7 +8,7 @@ from telegram.constants import ParseMode
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-BOT_TOKEN = ""  # Вставь токен
+BOT_TOKEN = "8175623665:AAFwUzVd6es6lRxYiwQrnzgchJA6jut5W5U"
 ADMIN_CHAT_ID = 7749088892
 
 user_cooldown = {}
